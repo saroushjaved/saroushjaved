@@ -1,6 +1,7 @@
 <div align="center">
-<img src="" align="center" style="width: 100%" />
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
+  
   
 
 ### <div align="center">I'm Soroush Javed Sulehri, an Electrical Engineering student and a web development enthusiast </div>  
