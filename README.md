@@ -1,117 +1,64 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
+# Soroush Javed Sulehri's GitHub Profile
+
+Welcome to my GitHub profile! I'm Soroush Javed Sulehri, a recent graduate in Electrical Engineering from the Pakistan Institute of Engineering and Applied Sciences (PIEAS), with a strong focus on embedded systems, FPGA-based digital signal processing, and algorithm optimization through parallel computing.
+
+## About Me
+
+I am passionate about accelerating computational tasks using heterogeneous computing systems, with a particular interest in applying these techniques to genome sequence analysis, digital signal processing, and embedded system design. My work spans from implementing and optimizing algorithms on FPGAs and cloud platforms to developing real-time embedded systems.
+
+## Skills
+
+### Programming Languages
+- **C/C++**: Advanced proficiency, particularly in system programming and algorithm development.
+- **Python**: Strong expertise in data analysis, machine learning, and scripting.
+- **MATLAB**: Extensive experience in digital signal processing and numerical analysis.
+- **Rust**: Knowledgeable in system-level programming.
+- **JavaScript**: Web development, particularly for creating dynamic and interactive websites.
+
+### Hardware Description Languages
+- **Verilog/SystemVerilog**: Proficient in designing and simulating digital circuits.
+- **VHDL**: Experience in hardware design and verification.
+
+### Tools and Platforms
+- **Xilinx ISE/Vivado**: Expertise in FPGA design, synthesis, and implementation.
+- **ModelSim**: Simulation and verification of digital circuits.
+- **Keil MicroVision**: Embedded systems development on ARM Cortex-M microcontrollers.
+- **FreeRTOS**: Real-time operating system for embedded applications.
+- **Arduino/STM32**: Embedded systems prototyping and development.
+
+### Technical Writing and Data Analysis
+- **LaTeX**: Proficient in creating well-structured technical documents and reports.
+- **Pandas, NumPy, SciPy**: Skilled in data manipulation and analysis.
+- **Excel**: Advanced data handling and visualization.
+
+### Other Skills
+- **Digital Signal Processing**: Design and implementation of FFTs, filters, and other DSP algorithms.
+- **Parallel Computing**: Optimization of algorithms for multi-core processors and FPGAs.
+- **Web Development**: Front-end development using HTML, CSS, and JavaScript.
+
+## Notable Projects
+
+- **Sneaky Snake Algorithm**: Implemented and optimized the Sneaky Snake pre-alignment filtering algorithm on CPU, FPGA, and cloud platforms. This project was part of my final year thesis and explored the performance improvements achievable through heterogeneous computing.
   
-  
+- **4-bit ALU Design**: Designed and implemented a 4-bit ALU on the Spartan-3E FPGA, supporting 16 arithmetic and logical operations. This project involved extensive testing and verification using both simulation and physical hardware.
 
-### <div align="center">I'm Soroush Javed Sulehri, an Electrical Engineering student and a web development enthusiast </div>  
-  
+- **Real-Time Compression using FFT**: Developed a FreeRTOS-based compression algorithm using Fast Fourier Transform on an Arduino platform.
 
-- 🔭 I’m currently working on Heterogenous Systems, Cross-Platform Apps, and Websites   
-  
+## Conferences
 
-- 🌱 I’m currently learning C++, CUDA and Open CL  
-  
+I have had the opportunity to present my research at international conferences, showcasing my work in accelerating computational algorithms and optimizing performance through innovative hardware and software solutions:
 
-- ❓ Ask me about anything related to Django, Python or Verilog  
-  
+- **IEEE International Bhuban Conference on Applied Sciences & Technology (IBCAST 2024)**: Presented a paper titled "Accelerating Genome Sequence Analysis via Pre-alignment Filtering: A Review of Sneaky Snake Algorithm." The research focuses on the performance gains achieved by implementing the Sneaky Snake algorithm on various platforms, including CPUs, FPGAs, and cloud computing environments. This paper is currently under review for publication on IEEE Xplore.
 
-- ⚡ Fun fact: I play piano  
-  
+## How I Use GitHub
 
-<br/>  
+Here on GitHub, I share my projects, from hardware implementations on FPGAs to software applications in Python and C++. My repositories reflect my ongoing efforts to explore and innovate within the fields of embedded systems, digital signal processing, and parallel computing.
 
+## Connect with Me
 
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
+Feel free to explore my repositories, and don't hesitate to reach out if you're interested in collaboration or have any questions!
+
+- **Email**: soroushjaved@gmail.com
 
 
-
-### Coding   
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-### Electrical Engineering  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/blender_community_badge_white.svg" alt="Blender" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-### Miscellaneous   
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/blender_community_badge_white.svg" alt="Blender" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobeindesign.svg" alt="Adobe InDesign" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/invision.svg" alt="Invision" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobedreamweaver.png" alt="Dreamweaver " height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" />  
-</div>
-
-</td></tr></table>  
-
-<br/>  
-
-
-## Connect with me  
-<div align="center">
-<a href="https://github.com/saroushjaved" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/soroush-javed/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/saroushjaved" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.facebook.com/saroush.javed" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
-
-<br/>  
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=saroushjaved&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-  
-
-<br/>  
-
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=1jbcqiwpcwjouy8rhj9rfnubd&cover_image=true&theme=default" /></div>  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=saroushjaved&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+Thank you for visiting my profile! If you find my work interesting, consider following me or starring my repositories. Let's build something innovative together!
