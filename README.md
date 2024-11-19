@@ -1,6 +1,3 @@
-Here's an updated GitHub profile draft focusing on your software and web development expertise while omitting hardware-related content:
-
----
 
 # Soroush Javed Sulehri's GitHub Profile
 
