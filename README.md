@@ -14,25 +14,50 @@ I am passionate about creating impactful software solutions, specializing in ful
 ## Skills
 
 ### Programming & Development
-- **C/C++**: Advanced proficiency for system programming and efficient algorithm design.
-- **Python**: Expertise in data analysis, automation, and backend scripting with libraries like Pandas, NumPy, and SciPy.
-- **JavaScript**: Proficient in creating dynamic and interactive web applications.
-- **Django**: Experience in building robust and scalable backend systems.
 
-### Web Development
-- **Frontend**: Skilled in HTML, CSS, Bootstrap, and WordPress for responsive and visually appealing interfaces.
-- **Backend**: Proficient in Django, SQLite/PostgreSQL, and web automation tools like Selenium.
-- **Deployment**: Familiar with hosting and server management using platforms like Microsoft Azure, DigitalOcean, and Nginx.
+* **Languages**: C/C++ (Advanced), Python (Advanced), MATLAB (Advanced), JavaScript, Embedded C/C++ (Intermediate)
+* **System-Level Programming**: Real-time systems design, low-level optimization, and memory-efficient algorithm design
+* **Web Frameworks**: Django (backend), WordPress, Bootstrap (frontend)
+* **Automation & Scripting**: Python (Pandas, NumPy, SciPy), Selenium, Excel automation
+
+### Hardware & FPGA Development
+
+* **HDL**: Verilog HDL (Advanced)
+* **FPGA Development**: Experience with Virtex 7 VC707 and Xilinx toolchains (Vivado, Vitis/SDK)
+* **FPGA-to-Memory Communication**: Design and implementation of low-latency modules using DDR and HBM
+* **Simulation & Testbenches**: ModelSim, Eclipse, co-simulation workflows
+
+### Web Development & Deployment
+
+* **Frontend**: HTML, CSS, Bootstrap, WordPress
+* **Backend**: Django, SQLite, PostgreSQL
+* **Deployment**: Microsoft Azure, DigitalOcean, Nginx, Google Cloud Platform
 
 ### Tools & Platforms
-- **Microsoft Azure**: Experience in deploying scalable cloud-based applications.
-- **GitHub**: Version control and collaboration.
-- **Excel**: Advanced data handling and visualization for analytical projects.
+
+* **Version Control**: Git, GitHub
+* **Operating Systems**: Linux (Ubuntu), Windows
+* **Profiling Tools**: Intel VTune, performance analysis on CPU and hardware acceleration platforms
+* **Data Tools**: Advanced Excel for data visualization and handling
 
 ### Certifications
-- **Data Science in Python**: University of Michigan.
-- **Data Visualization in Python**: University of Michigan.
-- **Python Programming**: Microsoft Technical Associate.
+
+* **Data Science in Python** – University of Michigan
+* **Data Visualization in Python** – University of Michigan
+* **Python Programming** – Microsoft Technical Associate
+
+---
+
+## 📚 Publications
+
+### **Accelerating Genome Sequence Analysis via Pre-alignment Filtering: A Review of Sneaky Snake Algorithm**
+
+**Soroush Javed Sulehri**, *et al.*
+
+* Implemented and evaluated the Sneaky Snake Pre-Alignment Filtering Algorithm on CPU, FPGA (Virtex 7 VC707), and cloud platforms to explore performance trade-offs and optimization potential.
+* Contributed new implementation strategies that both confirm and extend the original algorithm's capabilities.
+* Presented at the **IEEE International Bhurban Conference on Applied Sciences & Technology (IBCAST 2024)**.
+* [DOI: 10.1109/IBCAST61650.2024.10877257](https://doi.org/10.1109/IBCAST61650.2024.10877257)
 
 ---
 
