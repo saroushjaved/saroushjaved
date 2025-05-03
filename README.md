@@ -64,8 +64,6 @@ I am passionate about creating impactful software solutions, specializing in ful
 
 - **Microsoft Beta Student Learn Ambassador (2021–2023)**: Organized technical workshops and built a strong learning community at PIEAS.
 - **Chairperson, IEEE Student Branch PIEAS (2022–2023)**: Led a team of 50+ members, coordinating impactful initiatives and fostering professional growth.
-- **Data Visualization and Python Certification**: Enhanced expertise in data-driven insights and presentation.
-
 ---
 
 ## Connect with Me
