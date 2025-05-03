@@ -59,38 +59,6 @@ I am passionate about creating impactful software solutions, specializing in ful
 * Presented at the **IEEE International Bhurban Conference on Applied Sciences & Technology (IBCAST 2024)**.
 * [DOI: 10.1109/IBCAST61650.2024.10877257](https://doi.org/10.1109/IBCAST61650.2024.10877257)
 
----
-
-## Notable Projects
-
-### **The Anime Radio**
-A full-stack anime recommendation website developed using Django, featuring:
-- A custom-built recommendation engine.
-- User authentication and interactive features.
-- Hosted on DigitalOcean with Nginx and SQLite.
-[GitHub Repository](https://github.com/saroushjaved/theanimeradio)
-
-### **Automated Marks Uploading**
-A web automation system that simplifies data extraction and synchronization of student marks between the PIEAS portal and Excel files. Built using:
-- **Selenium**: For automated data extraction.
-- **Pandas**: For seamless data organization and processing.
-
-### **Sneaky Snake Algorithm Implementation**
-Optimized the Sneaky Snake Pre-Alignment Filtering Algorithm in C++ using OpenMP for parallelization. This work:
-- Enhanced processing of large datasets with significant performance improvements.
-- Was presented at **IEEE IBCAST 2024** and is under review for publication.
-
-### **Conference Website for IWNMC 2023**
-Designed and developed the official website for the International Workshop on Nanomaterials and Catalysis. The platform includes:
-- User-friendly navigation.
-- Detailed event and speaker information.
-- Secure registration system.
-
-### **Department of Electrical Engineering Website (PIEAS)**
-Created and deployed a responsive, modern website to showcase academic programs, faculty, and research for PIEAS's Department of Electrical Engineering.  
-[Visit Website](http://dee.pieas.edu.pk/)
-
----
 
 ## Leadership and Achievements
 
