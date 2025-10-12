@@ -6,8 +6,7 @@ Welcome to my GitHub profile! I'm Soroush Javed Sulehri, a recent graduate in El
 ---
 
 ## About Me
-
-I am passionate about creating impactful software solutions, specializing in full-stack web development, data visualization, and algorithm optimization. My projects demonstrate a blend of creativity and technical expertise, ranging from user-centric web platforms to automation systems.
+Electrical Engineer with hands-on expertise in Embedded Systems, FPGA design, and SoC development, specializing in hardware acceleration for genome sequence analysis and signal processing applications. Skilled in hardware–software co-design and proficient in Verilog, with practical experience designing low-latency, high-throughput systems. Research background includes hardware acceleration for genome sequence analysis, with a publication in IEEE IBCAST 2024. Demonstrated ability to integrate strong academic foundations with real-world implementation. Seeking to further develop expertise in reconfigurable and heterogeneous computing platforms for next-generation genome sequence analysis acceleration.
 
 ---
 
@@ -16,29 +15,39 @@ I am passionate about creating impactful software solutions, specializing in ful
 ### Programming & Development
 
 * **Languages**: C/C++ (Advanced), Python (Advanced), MATLAB (Advanced), JavaScript, Embedded C/C++ (Intermediate)
-* **System-Level Programming**: Real-time systems design, low-level optimization, and memory-efficient algorithm design
+* **System-Level Programming**: Real-time systems design, low-level optimization, memory-efficient algorithm design, and hardware–software co-design
 * **Web Frameworks**: Django (backend), WordPress, Bootstrap (frontend)
 * **Automation & Scripting**: Python (Pandas, NumPy, SciPy), Selenium, Excel automation
+
+---
 
 ### Hardware & FPGA Development
 
 * **HDL**: Verilog HDL (Advanced)
-* **FPGA Development**: Experience with Virtex 7 VC707 and Xilinx toolchains (Vivado, Vitis/SDK)
-* **FPGA-to-Memory Communication**: Design and implementation of low-latency modules using DDR and HBM
-* **Simulation & Testbenches**: ModelSim, Eclipse, co-simulation workflows
+* **FPGA Platforms**: Xilinx Zynq SoC (ARM Cortex-A9), Virtex VC707, Kintex 7
+* **FPGA Development**: Extensive experience with Xilinx toolchains (Vivado, Vitis/SDK) and Intel Quartus for FPGA synthesis and implementation
+* **FPGA-to-Memory Communication**: Design and implementation of low-latency, high-bandwidth interfaces using DDR and HBM memory
+* **Simulation & Testbenches**: Icarus Verilog, ModelSim, Eclipse-based co-simulation workflows for functional and timing verification
+
+---
 
 ### Web Development & Deployment
 
 * **Frontend**: HTML, CSS, Bootstrap, WordPress
 * **Backend**: Django, SQLite, PostgreSQL
-* **Deployment**: Microsoft Azure, DigitalOcean, Nginx, Google Cloud Platform
+* **Deployment**: Microsoft Azure, Google Cloud Platform, DigitalOcean, Nginx
+
+---
 
 ### Tools & Platforms
 
+* **Development Tools**: Vivado, Xilinx Vitis/SDK, Intel Quartus, Eclipse, Icarus Verilog
 * **Version Control**: Git, GitHub
 * **Operating Systems**: Linux (Ubuntu), Windows
-* **Profiling Tools**: Intel VTune, performance analysis on CPU and hardware acceleration platforms
-* **Data Tools**: Advanced Excel for data visualization and handling
+* **Profiling & Performance Tools**: Intel VTune, MATLAB Profiler, system-level performance analysis for CPU and FPGA-based acceleration
+* **Cloud & Integration**: Microsoft Azure, Google Cloud Platform for hardware/software deployment and scaling
+
+---
 
 ### Certifications
 
