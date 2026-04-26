@@ -1,85 +1,120 @@
+<div align="center">
 
-# Soroush Javed Sulehri's GitHub Profile
+# Soroush Javed Sulehri
 
-Welcome to my GitHub profile! I'm Soroush Javed Sulehri, a recent graduate in Electrical Engineering from the Pakistan Institute of Engineering and Applied Sciences (PIEAS). My work primarily revolves around web development, algorithm optimization, and data-driven solutions.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=3200&pause=900&color=00F5D4&center=true&vCenter=true&width=900&lines=FPGA+acceleration+%2F%2F+embedded+systems+%2F%2F+genome+algorithms+%2F%2F+anime-powered+web+experiments;I+build+where+silicon%2C+algorithms%2C+and+strange+ideas+meet.;Hardware-software+co-design+with+a+builder%27s+bias.)](https://git.io/typing-svg)
 
----
+**Electrical engineer, FPGA/SoC builder, embedded systems explorer, and full-stack maker.**
 
-## About Me
-Electrical Engineer with hands-on expertise in Embedded Systems, FPGA design, and SoC development, specializing in hardware acceleration for genome sequence analysis and signal processing applications. Skilled in hardware–software co-design and proficient in Verilog, with practical experience designing low-latency, high-throughput systems. Research background includes hardware acceleration for genome sequence analysis, with a publication in IEEE IBCAST 2024. Demonstrated ability to integrate strong academic foundations with real-world implementation. Seeking to further develop expertise in reconfigurable and heterogeneous computing platforms for next-generation genome sequence analysis acceleration.
+I build where silicon, algorithms, and strange ideas meet: low-latency hardware, genome-analysis acceleration, signal-processing experiments, embedded demos, and web projects with personality.
 
----
+[![Email](https://img.shields.io/badge/Email-soroushjaved%40gmail.com-00F5D4?style=for-the-badge&logo=gmail&logoColor=black)](mailto:soroushjaved@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-saroushjaved-181717?style=for-the-badge&logo=github)](https://github.com/saroushjaved)
+[![IEEE](https://img.shields.io/badge/IEEE_IBCAST_2024-Publication-00629B?style=for-the-badge&logo=ieee&logoColor=white)](https://doi.org/10.1109/IBCAST61650.2024.10877257)
 
-## Skills
-
-### Programming & Development
-
-* **Languages**: C/C++ (Advanced), Python (Advanced), MATLAB (Advanced), JavaScript, Embedded C/C++ (Intermediate)
-* **System-Level Programming**: Real-time systems design, low-level optimization, memory-efficient algorithm design, and hardware–software co-design
-* **Web Frameworks**: Django (backend), WordPress, Bootstrap (frontend)
-* **Automation & Scripting**: Python (Pandas, NumPy, SciPy), Selenium, Excel automation
+</div>
 
 ---
 
-### Hardware & FPGA Development
+## Neon Signal
 
-* **HDL**: Verilog HDL (Advanced)
-* **FPGA Platforms**: Xilinx Zynq SoC (ARM Cortex-A9), Virtex VC707, Kintex 7
-* **FPGA Development**: Extensive experience with Xilinx toolchains (Vivado, Vitis/SDK) and Intel Quartus for FPGA synthesis and implementation
-* **FPGA-to-Memory Communication**: Design and implementation of low-latency, high-bandwidth interfaces using DDR and HBM memory
-* **Simulation & Testbenches**: Icarus Verilog, ModelSim, Eclipse-based co-simulation workflows for functional and timing verification
+```text
+MODE        general builder
+CORE        FPGA acceleration | embedded systems | algorithms | web experiments
+STACK       Verilog + C/C++ + Python + Django + cloud deployment
+HARDWARE    Zynq SoC | Virtex VC707 | Kintex 7 | STM32
+MISSION     turn research ideas into systems people can run, test, and improve
+```
 
----
+<div align="center">
 
-### Web Development & Deployment
+![FPGA](https://img.shields.io/badge/FPGA-00F5D4?style=flat-square&logo=xilinx&logoColor=black)
+![Verilog](https://img.shields.io/badge/Verilog-111827?style=flat-square)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=1f2937)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Embedded](https://img.shields.io/badge/Embedded_Systems-FF006E?style=flat-square)
+![Cloud](https://img.shields.io/badge/Cloud_Deployment-3A86FF?style=flat-square)
 
-* **Frontend**: HTML, CSS, Bootstrap, WordPress
-* **Backend**: Django, SQLite, PostgreSQL
-* **Deployment**: Microsoft Azure, Google Cloud Platform, DigitalOcean, Nginx
-
----
-
-### Tools & Platforms
-
-* **Development Tools**: Vivado, Xilinx Vitis/SDK, Intel Quartus, Eclipse, Icarus Verilog
-* **Version Control**: Git, GitHub
-* **Operating Systems**: Linux (Ubuntu), Windows
-* **Profiling & Performance Tools**: Intel VTune, MATLAB Profiler, system-level performance analysis for CPU and FPGA-based acceleration
-* **Cloud & Integration**: Microsoft Azure, Google Cloud Platform for hardware/software deployment and scaling
+</div>
 
 ---
 
-### Certifications
+## Signal Map
 
-* **Data Science in Python** – University of Michigan
-* **Data Visualization in Python** – University of Michigan
-* **Python Programming** – Microsoft Technical Associate
+| Channel | What I Build | Tools and Terrain |
+| --- | --- | --- |
+| Hardware | FPGA/SoC accelerators, memory-aware designs, low-latency pipelines | Verilog, Vivado, Vitis/SDK, Quartus, Zynq, Virtex VC707, Kintex 7 |
+| Algorithms | Genome sequence analysis, pre-alignment filtering, signal-processing experiments | C/C++, Python, MATLAB, profiling, CPU/FPGA trade-off analysis |
+| Embedded | Real-time systems, board-level demos, sensor/display/control experiments | Embedded C/C++, STM32, FreeRTOS, low-level debugging |
+| Web | Useful full-stack tools and public-facing apps | Django, PostgreSQL, SQLite, Bootstrap, Nginx, DigitalOcean, Azure, GCP |
+| Community | Learning spaces, technical workshops, fan/community projects | IEEE PIEAS, Microsoft Learn Student Ambassador, The Anime Radio |
 
 ---
 
-## 📚 Publications
+## Featured Systems
 
-### **Accelerating Genome Sequence Analysis via Pre-alignment Filtering: A Review of Sneaky Snake Algorithm**
+| Project | Why It Matters | Signal |
+| --- | --- | --- |
+| [nexhus-fft](https://github.com/saroushjaved/nexhus-fft) / [nexhus](https://github.com/saroushjaved/nexhus) | FFT and acceleration-focused work for turning math-heavy workloads into clearer systems. | signal processing, acceleration, performance |
+| [Sneaky_Snake_Cloud_Implementation](https://github.com/saroushjaved/Sneaky_Snake_Cloud_Implementation) | Research implementation around pre-alignment filtering for genome sequence analysis. | genome algorithms, CPU/FPGA/cloud comparison |
+| [FPGA_Projects](https://github.com/saroushjaved/FPGA_Projects) | Hardware portfolio hub for FPGA experiments and reusable learning artifacts. | Verilog, FPGA, SoC |
+| [ella](https://github.com/saroushjaved/ella) | Modern app-building work with a product-minded engineering direction. | application engineering, UX, systems thinking |
+| [theanimeradio](https://github.com/saroushjaved/theanimeradio) | A creative Django community project for anime recommendations, lists, and polls. | Django, public web, community |
 
-**Soroush Javed Sulehri**, *et al.*
-
-* Implemented and evaluated the Sneaky Snake Pre-Alignment Filtering Algorithm on CPU, FPGA (Virtex 7 VC707), and cloud platforms to explore performance trade-offs and optimization potential.
-* Contributed new implementation strategies that both confirm and extend the original algorithm's capabilities.
-* Presented at the **IEEE International Bhurban Conference on Applied Sciences & Technology (IBCAST 2024)**.
-* [DOI: 10.1109/IBCAST61650.2024.10877257](https://doi.org/10.1109/IBCAST61650.2024.10877257)
-
-
-## Leadership and Achievements
-
-- **Microsoft Beta Student Learn Ambassador (2021–2023)**: Organized technical workshops and built a strong learning community at PIEAS.
-- **Chairperson, IEEE Student Branch PIEAS (2022–2023)**: Led a team of 50+ members, coordinating impactful initiatives and fostering professional growth.
 ---
 
-## Connect with Me
+## Research Beacon
 
-Feel free to explore my repositories and reach out for collaboration or inquiries!  
-- **Email**: soroushjaved@gmail.com  
-- [**GitHub**](https://github.com/saroushjaved)
+**Accelerating Genome Sequence Analysis via Pre-alignment Filtering: A Review of Sneaky Snake Algorithm**  
+Presented at **IEEE International Bhurban Conference on Applied Sciences and Technology (IBCAST 2024)**.
 
-Thank you for visiting my profile! If you find my work interesting, consider following me or starring my repositories. Let’s innovate together!
+- Implemented and evaluated Sneaky Snake pre-alignment filtering across CPU, FPGA, and cloud environments.
+- Explored performance trade-offs and implementation strategies for genome sequence analysis acceleration.
+- DOI: [10.1109/IBCAST61650.2024.10877257](https://doi.org/10.1109/IBCAST61650.2024.10877257)
 
+---
+
+## Lab Inventory
+
+```text
+Languages       C/C++ | Python | MATLAB | JavaScript | Embedded C/C++ | Verilog HDL
+Hardware        Xilinx Zynq SoC | Virtex VC707 | Kintex 7 | STM32 boards
+Toolchains      Vivado | Vitis/SDK | Intel Quartus | Icarus Verilog | ModelSim
+Backend/Web     Django | PostgreSQL | SQLite | WordPress | Bootstrap
+Ops             Linux | Nginx | DigitalOcean | Microsoft Azure | Google Cloud Platform
+Profiling       Intel VTune | MATLAB Profiler | custom performance analysis
+```
+
+---
+
+## Console Stats
+
+<div align="center">
+
+![Soroush's GitHub stats](https://github-readme-stats.vercel.app/api?username=saroushjaved&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true)
+
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saroushjaved&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## Side Quests and Leadership
+
+- **Chairperson, IEEE Student Branch PIEAS (2022-2023)**: led a 50+ member student team and coordinated technical/community initiatives.
+- **Microsoft Beta Student Learn Ambassador (2021-2023)**: organized workshops and helped build a stronger learning culture at PIEAS.
+- **Certifications**: Data Science in Python, Data Visualization in Python, and Python Programming.
+
+---
+
+## Open Channel
+
+I am open to collaborations in **FPGA acceleration, embedded tooling, genome-analysis systems, signal-processing experiments, and weird useful systems**.
+
+If your idea lives somewhere between a research paper, a board bring-up, and a late-night prototype, I probably want to hear about it.
+
+```text
+contact: soroushjaved@gmail.com
+github : github.com/saroushjaved
+```
