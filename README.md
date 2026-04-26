@@ -2,7 +2,7 @@
 
 # Soroush Javed Sulehri
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=3200&pause=900&color=00F5D4&center=true&vCenter=true&width=900&lines=FPGA+acceleration+%2F%2F+embedded+systems+%2F%2F+genome+algorithms+%2F%2F+anime-powered+web+experiments;I+build+where+silicon%2C+algorithms%2C+and+strange+ideas+meet.;Hardware-software+co-design+with+a+builder%27s+bias.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=3200&pause=900&color=00F5D4&center=true&vCenter=true&width=900&lines=FPGA+acceleration+%2F%2F+embedded+systems+%2F%2F+web+experiments;I+build+where+silicon%2C+algorithms%2C+and+strange+ideas+meet.;Hardware-software+co-design+with+a+builder%27s+bias.)](https://git.io/typing-svg)
 
 **Electrical engineer, FPGA/SoC builder, embedded systems explorer, and full-stack maker.**
 
