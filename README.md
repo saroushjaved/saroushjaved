@@ -6,26 +6,19 @@
 
 **Electrical Engineer | FPGA & RTL Design | Real-Time DSP | Hardware-Software Co-Design**
 
-I am an electrical engineer with over three years of experience in FPGA-based DSP systems, RTL design, and hardware-software co-design. My research interests include FPGA architecture and reconfigurable computing, with a focus on arithmetic efficiency, resource utilization, and data movement in hardware accelerators.
-
-I build FPGA accelerators, embedded firmware, and tools for hardware validation. Alongside this work, I develop full-stack applications, community projects, and experimental software.
+I build FPGA accelerators, real-time DSP pipelines, embedded firmware, and tools for testing hardware. My projects explore efficient arithmetic, memory and data movement, and the connection between RTL and software. I also build desktop apps, full-stack tools, and creative community projects.
 
 [![Email](https://img.shields.io/badge/Email-soroushjavedsulehri%40gmail.com-00F5D4?style=for-the-badge&logo=gmail&logoColor=black)](mailto:soroushjavedsulehri@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-saroushjaved-181717?style=for-the-badge&logo=github)](https://github.com/saroushjaved)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Soroush_Javed-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/soroush-javed/)
-[![IEEE](https://img.shields.io/badge/IEEE_IBCAST_2024-Publication-00629B?style=for-the-badge&logo=ieee&logoColor=white)](https://doi.org/10.1109/IBCAST61650.2024.10877257)
 
 </div>
 
 ---
 
-## Research & Engineering Focus
+## What I Build
 
-- **FPGA architecture and reconfigurable computing:** efficient arithmetic, resource-aware RTL, and accelerator architectures.
-- **Real-time digital signal processing:** fixed-point FFT, FIR/IIR filtering, DDC/DUC, and adaptive decimation.
-- **Data movement and SoC integration:** streaming datapaths, buffering, AXI/DMA transfers, and programmable-logic integration with embedded software.
-- **Verification and hardware validation:** self-checking testbenches, reference models, automated board testing, and laboratory validation.
-- **Heterogeneous acceleration:** genome pre-alignment filtering across CPU, FPGA, and cloud platforms.
+FPGA and SoC systems, from fixed-point signal processing and streaming datapaths to embedded control and hardware validation. My software work spans C++ desktop tools, Python automation, and Django web apps.
 
 <div align="center">
 
@@ -42,70 +35,26 @@ I build FPGA accelerators, embedded firmware, and tools for hardware validation.
 
 ---
 
-## Professional Experience
+## FPGA & DSP Projects
 
-### Embedded Systems Developer · Angular Spring
-**August 2026 - Present**
+### [BAAD: Bandwidth-Aware Adaptive Decimation](https://github.com/saroushjaved/BAAD)
+**Verilog · Zynq UltraScale+ ZCU102 · Embedded C · Qt/C++ · MATLAB**
 
-- Developing an automated PCBA testing framework for Zynq-7000 systems, covering power-rail monitoring, ADC verification, environmental sensors, and SoC diagnostics.
-- Implemented memory verification routines for QSPI/SPI Flash, eMMC, SD, and DDR, with read/write testing, error detection, and CLI-based result logging.
+An adaptive DSP system that estimates signal bandwidth and adjusts decimation from 1x to 16x. It combines a DDC FIR filter, FFT-based bandwidth estimation, and a CIC decimator, with embedded firmware and a Qt application for control, telemetry, and signal capture.
 
-### Assistant Manager - Embedded Systems Engineer · Resolve Pvt Ltd
-**September 2023 - August 2026**
+### [NEXHUS-FFT](https://github.com/saroushjaved/nexhus-fft)
+**SystemVerilog · Fixed-Point DSP · AXI · C++**
 
-- Developed and validated two FPGA-based real-time DSP systems on Xilinx Zynq-7000 and Zynq UltraScale+ MPSoC platforms.
-- Designed streaming and buffering architectures connecting ADC/DAC interfaces, FPGA logic, DMA, and processor memory.
-- Implemented and verified Verilog DSP pipelines for DDC/DUC, FIR/IIR filtering, buffering, and FFT-based spectral analysis, with attention to resource utilization and timing.
-- Developed bare-metal C/C++ firmware for FPGA peripheral control, AXI/DMA transfers, and hardware-software interface debugging.
-- Modeled RF and DSP algorithms in MATLAB, then performed fixed-point implementation and quantization analysis.
-- Conducted laboratory and field validation of baseband DSP systems, evaluating spectral performance, signal quality, and subsystem operation.
+A 1,024-point radix-2 FFT accelerator using Q1.15 fixed-point arithmetic, BRAM-based computation, and AXI interfaces. A C++ reference model and self-checking testbenches check bit-exact results across all FFT bins.
 
----
+Related work: [nexhus](https://github.com/saroushjaved/nexhus).
 
-## Selected Research & FPGA Projects
+### [Sneaky Snake Genome Pre-Alignment Filtering](https://github.com/saroushjaved/sneaky-snake-algo)
+**Verilog · C++/OpenMP · Virtex-7 VC707 · Microsoft Azure**
 
-### [BAAD: Bandwidth-Aware Adaptive Decimation System](https://github.com/saroushjaved/BAAD)
-**2026 - Present | Verilog · Zynq UltraScale+ ZCU102 · Embedded C · Qt/C++ · MATLAB**
+A project exploring genome pre-alignment filtering across multicore CPUs, FPGA hardware, and cloud infrastructure. The FPGA design breaks sequence comparisons into smaller parallel operations using shifted Hamming-distance logic, leading-zero counters, and comparator networks.
 
-- Designed an adaptive DSP system integrating a 129-tap DDC FIR filter, FFT-based bandwidth estimator, and three-stage CIC decimator.
-- Implemented adaptive control selecting decimation factors of 1, 2, 4, 8, or 16 using bandwidth estimates, hysteresis, guard-band constraints, and fail-safe operation.
-- Developed embedded firmware, a Qt/C++ control and telemetry application, and MATLAB tools for configuration, signal capture, and performance evaluation; performed RTL verification and FPGA implementation analysis.
-
-### [NEXHUS-FFT: Fixed-Point Radix-2 FFT Accelerator](https://github.com/saroushjaved/nexhus-fft)
-**2026 - Present | SystemVerilog · Fixed-Point DSP · AXI · C++**
-
-- Designed a 1,024-point radix-2 DIT FFT accelerator with 16-bit Q1.15 arithmetic, complex butterfly operations, rounding, scaling, and saturation.
-- Built a modular architecture with pipelined butterfly units, BRAM-based in-place computation, twiddle-factor ROM, AXI4-Lite control, and AXI4 memory interfaces.
-- Developed a C++ fixed-point reference model and self-checking SystemVerilog testbenches, achieving bit-exact agreement across all 1,024 bins for impulse, sinusoidal, and mixed-signal test vectors.
-- Related work: [nexhus](https://github.com/saroushjaved/nexhus).
-
-### [Heterogeneous Acceleration of Sneaky Snake Genome Pre-Alignment Filtering](https://github.com/saroushjaved/sneaky-snake-algo)
-**2022 - 2023 | Verilog · C++/OpenMP · Virtex-7 VC707 · Microsoft Azure**
-
-- Implemented and benchmarked genome pre-alignment filtering across multicore CPUs, FPGA hardware, and cloud infrastructure.
-- Designed a modular accelerator decomposing 100-base-pair sequence processing into 13 eight-bit subproblems using shifted Hamming-distance logic, hierarchical leading-zero counters, and comparator networks.
-- Synthesized, simulated, and validated the FPGA implementation in Vivado, using 3,686 LUTs and 1,931 flip-flops for a 100-bp, edit-distance-5 configuration while meeting timing constraints.
-- Additional implementation: [Sneaky_Snake_Cloud_Implementation](https://github.com/saroushjaved/Sneaky_Snake_Cloud_Implementation).
-
----
-
-## Publication
-
-M. Adnan, S. J. Sulehri, M. A. Akhtar, and M. Aqil, **“Accelerating Genome Sequence Analysis via Pre-Alignment Filtering: A Review of Sneaky Snake Algorithm,”** in *2024 21st International Bhurban Conference on Applied Sciences and Technology (IBCAST)*, IEEE, 2024, pp. 209-215.
-
-Presented at **IBCAST 2024**. The work examines implementation and performance trade-offs for Sneaky Snake genome pre-alignment filtering across CPU, FPGA, and cloud environments.
-
-DOI: [10.1109/IBCAST61650.2024.10877257](https://doi.org/10.1109/IBCAST61650.2024.10877257)
-
----
-
-## Education
-
-**BSc Electrical Engineering (Electronics)**<br>
-Pakistan Institute of Engineering and Applied Sciences (PIEAS) · **September 2019 - June 2023**
-
-- **CGPA: 3.62/4.00**
-- **GPA: 4.00/4.00** in semesters 7 and 8.
+[Cloud implementation](https://github.com/saroushjaved/Sneaky_Snake_Cloud_Implementation) · [Related IEEE publication](https://doi.org/10.1109/IBCAST61650.2024.10877257)
 
 ---
 
@@ -131,17 +80,6 @@ Pakistan Institute of Engineering and Applied Sciences (PIEAS) · **September 20
 | [FPGA_Projects](https://github.com/saroushjaved/FPGA_Projects) | FPGA experiments, reusable learning artifacts, and a hardware portfolio hub. |
 | [ella](https://github.com/saroushjaved/ella) | Application engineering, user experience, and systems thinking. |
 | [theanimeradio](https://github.com/saroushjaved/theanimeradio) | A Django community project for anime recommendations, lists, and polls. |
-
----
-
-## Academic Engagement & Leadership
-
-- **Indigenous & Secure Digital System Design School, Namal University (2025):** participant.
-- **IBCAST 2024, Murree:** research presenter.
-- **Recent Advances in Electrical Engineering & Computer Sciences, PIEAS (2022):** participant.
-- **Chairperson, IEEE Student Branch PIEAS (2022-2023):** led a 50+ member student team and coordinated technical and community initiatives.
-- **Microsoft Learn Student Ambassador, PIEAS (2020-2023):** organized workshops and supported the student learning community; Beta ambassador during 2021-2023.
-- **Certifications:** Data Science in Python, Data Visualization in Python, and Python Programming.
 
 ---
 
